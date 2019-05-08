@@ -1,4 +1,8 @@
 class {
 	border: black;
+	border-style: solid;
 	margin: 5px;
+}
+#third {
+	display: none;
 }
