@@ -1,0 +1,31 @@
+
+div {
+	border: black;
+	border-style: solid;
+	margin: 5px;
+}
+#third p {
+	visibility: visible;
+}
+#fourth h1 {
+	visibility: visible;
+}
+
+div {
+	border: red;
+	border-style: solid;
+	margin: 5px;
+	visibility: visible;
+}
+#second {
+	visibility: visible; }
+#fifth {
+	visibility: visible; }
+	p {
+	visibility: visible; }
+#sixth div {
+	visibility: visible; }
+	img {
+	visibility: visible; }
+#first p {
+	font-size: 20px }
