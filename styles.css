@@ -1,11 +1,27 @@
-class {
+div {
 	border: black;
 	border-style: solid;
 	margin: 5px;
 }
-#third {
+#third p {
 	display: none;
 }
-h1 {
+#fourth h1 {
 	display: none;
 }
+div {
+	border: red;
+	border-style: solid;
+	margin: 5px;
+	visibility: visible;
+}
+#second {
+	visibility: hidden; }
+#fifth {
+	display: none; }
+	p {
+	display: none; }
+#sixth div {
+	visibility: hidden; }
+	img {
+	visibility: visible; }
