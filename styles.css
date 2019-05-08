@@ -1,8 +1,5 @@
-<<<<<<< HEAD
-class third p {
-=======
+
 div {
->>>>>>> 59e18eb56aa8673ed321e851363d46adf1c30925
 	border: black;
 	border-style: solid;
 	margin: 5px;
@@ -13,8 +10,7 @@ div {
 #fourth h1 {
 	display: none;
 }
-<<<<<<< HEAD
-=======
+
 div {
 	border: red;
 	border-style: solid;
@@ -31,4 +27,4 @@ div {
 	visibility: hidden; }
 	img {
 	visibility: visible; }
->>>>>>> 59e18eb56aa8673ed321e851363d46adf1c30925
+
