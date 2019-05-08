@@ -4,10 +4,10 @@ div {
 	margin: 5px;
 }
 #third p {
-	display: none;
+	visibility: visible;
 }
 #fourth h1 {
-	display: none;
+	visibility: visible;
 }
 div {
 	border: red;
@@ -16,12 +16,12 @@ div {
 	visibility: visible;
 }
 #second {
-	visibility: hidden; }
+	visibility: visible; }
 #fifth {
-	display: none; }
+	visibility: visible; }
 	p {
-	display: none; }
+	visibility: visible; }
 #sixth div {
-	visibility: hidden; }
+	visibility: visible; }
 	img {
 	visibility: visible; }
